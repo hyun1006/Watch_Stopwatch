@@ -11,7 +11,7 @@
 ## 📖 프로젝트 개요 (Project Overview)
 
 이 프로젝트는 **Basys 3 FPGA 보드**를 활용하여 디지털 시계(Watch)와 스톱워치(Stopwatch) 기능을 구현한 결과물입니다.
-외부 통신(UART) 없이 **FPGA 내부 로직과 물리적 입출력 장치(Switch, Button, 7-Segment Display)**만으로 동작하도록 설계되었습니다. 특히 기계적 스위치의 노이즈를 제거하는 **디바운싱(Debouncing)** 기술과 정확한 시간 계수를 위한 **클럭 분주(Clock Division)** 설계에 중점을 두었습니다.
+FPGA 내부 로직과 물리적 입출력 장치(Switch, Button, 7-Segment Display)로 동작하도록 설계되었습니다. 특히 기계적 스위치의 노이즈를 제거하는 **디바운싱(Debouncing)** 기술과 정확한 시간 계수를 위한 **클럭 분주(Clock Division)** 설계에 중점을 두었습니다.
 
 ---
 
